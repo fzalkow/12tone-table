@@ -4,7 +4,8 @@ This a small project for creating pdf files of all 48 variants of a twelve tone 
 
 ## Usage ##
 
-```12tone-table [--ly PATH] [--row "ROW"] [--paper FORMAT] [--help] --out PATH
+```
+12tone-table [--ly PATH] [--row "ROW"] [--paper FORMAT] [--help] --out PATH
 Creating PDF files with a table of all 48 variants of a twelve tone row. lilypond is required.
 
 Arguments
@@ -12,7 +13,8 @@ Arguments
    --row    twelve tone row (default: "bes e ges ees f a d cis g gis b c")
    --paper  A4 or C4 (default: C4)
    --help   displays this help
-   --out    path to pdf file to be created```
+   --out    path to pdf file to be created
+```
 
 ## Build your own executable ##
 
