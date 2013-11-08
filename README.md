@@ -1,6 +1,8 @@
-# 12tone-table - making pdf files of all 48 variants of a twelve tone row #
+# 12tone-table #
 
-This a small project for creating pdf files of all 48 variants of a twelve tone row. It depends on [LilyPond](http://www.lilypond.org/).
+This a small project for creating pdf files of twelve tone row tables, i.e. of all 48 variants of a twelve tone row. These variants are the prime (a.k.a. original row), retrograde, inversion and retrograde-inversion in 12 transposition possibilities each. Have a look at `examples/schoenberg_op31.pdf` for an example.
+
+This project depends on [LilyPond](http://www.lilypond.org/).
 
 ## Usage ##
 
