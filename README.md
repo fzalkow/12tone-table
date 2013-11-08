@@ -31,4 +31,4 @@ This software is licensed under the [CC BY 3.0 license](http://creativecommons.o
 
 ## Contact ##
 
-I am happy if you share your ideas with me: <frank_zalkow@web.de>.
+I am happy if you share your ideas with me: frank_zalkow@web.de.
